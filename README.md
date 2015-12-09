@@ -1,5 +1,5 @@
 # AnotherOne
-![alt text] (https://shravanj.com/files/anotherone/djkhaled.jpg)
+![alt text] (https://shravanj.com/files/anotherone/djkhaled.png)
 
 Let DJ Khaled inspire us all
 
