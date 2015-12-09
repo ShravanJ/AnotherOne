@@ -9,5 +9,5 @@ AnotherOne is a simple Java program that opens a inpirational DJ Khaled youtube 
 #How do I run it?
 From the command line just run java AnotherOneTester or import it into your favorite IDE and run it from there.
 
-#How can I implement this in a program?
+#How can I implement this in another program?
 You can drop the entire AnotherOneClass into the directory that contains the other source files and create a AnotherOne object to call it and open the web page. Or you can just copy the implementation into a void method and call it if you don't want to have an extra class. 
