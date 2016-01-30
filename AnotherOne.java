@@ -26,7 +26,7 @@ public class AnotherOne
 			}
 			catch(Exception e)
 			{
-				System.out.println("You smart. You very smart. We the best.");
+				System.out.println("They don't want you to jet ski.");
 			}
 			
 		}
